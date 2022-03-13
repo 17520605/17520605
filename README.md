@@ -11,7 +11,7 @@ An in-depth paragraph about your project and overview of use.
 ### Dependencies
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* ex. Windows 11
 
 ### Installing
 
@@ -22,25 +22,16 @@ An in-depth paragraph about your project and overview of use.
 
 * How to run the program
 * Step-by-step bullets
-```
-code blocks for commands
-```
 
 ## Help
 
 Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
 Contributors names and contact info
 
 ex. Nguyễn Hữu Minh Khai
-ex. [@NguyenHuuMinhKhai-twiter]
-ex. [@NguyenHuuMinhKhai-facebook]
-ex. [@NguyenHuuMinhKhai-email]
 
 ## Version History
 
