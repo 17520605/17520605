@@ -38,16 +38,17 @@ command to run if program contains helper info
 Contributors names and contact info
 
 ex. Nguyễn Hữu Minh Khai
-ex. [@NguyenHuuMinhKhai-twiter](https://twitter.com/khainguyen1505)
-ex. [@NguyenHuuMinhKhai-facebook](https://www.facebook.com/nguyenhuuminhkhai/)
-ex. [@NguyenHuuMinhKhai-email](nguyenhuuminhkhai@gmail.com)
+ex. [@NguyenHuuMinhKhai-twiter]
+ex. [@NguyenHuuMinhKhai-facebook]
+ex. [@NguyenHuuMinhKhai-email]
+
 ## Version History
 
 * 0.1
 
 ## License
 
-This project is licensed under the [Nguyễn Hữu Minh Khai] License - see the LICENSE.md file for details
+This project is licensed under the License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
