@@ -4,19 +4,6 @@
 </h3>
 
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://linkedin.com/in/zobro23"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@zobro23"><img width="32px" title="Medium" src="https://i.imgur.com/8G9R1ep.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://fiverr.com/zobro23"><img width="32px" title="Fiverr" src="https://i.imgur.com/OyA8gsq.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://npmjs.com/~zo-bro-23"><img width="32px" title="NPM" src="https://i.imgur.com/zi1vRF3.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.thingiverse.com/zobro23/"><img width="32px" title="Thingiverse" src="https://i.imgur.com/sjvRVzs.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-<br/>
 
 <p align="center">
   <a href="https://artist.link/zobro23"><img width="32px" title="SongLink" src="https://i.imgur.com/pfBS0xC.png"/></a>
@@ -47,11 +34,6 @@
   <a href="https://npmjs.com/~zo-bro-23"><img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/5506-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
 </p>
 
-<p align="center">
-<a href="https://discord.com/users/659610243990290524">
-<img title="Discord Presence" src="https://discord-readme-badge.zohan.tech/api?id=659610243990290524">
-</a>
-</p>
 
 <p align="center">
   <a href="https://www.last.fm/user/ZoBro23"><img width="" alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23"/></a>
