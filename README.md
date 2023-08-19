@@ -3,11 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=High%20school%20freshman;Web%20and%20app%20developer;Pianist;Author;Euro%20Truck%2FMicrosoft%20Flight%20Simulator%20Fanboy;3D%20Designer;Minecraft%20enthusiast;Always%20eager%20to%20learn%20%3A)&font=Fira%20Code&center=true&color=f75c7e&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
-</p>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://linkedin.com/in/zobro23"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
@@ -103,38 +98,6 @@
   <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
 
-## 📘 My top open source projects
-
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/Zo-Bro-23/zoauth"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zoauth&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/Zo-Bro-23/c29"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=c29&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/Zo-Bro-23/obs-voicemeeter-integration"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=obs-voicemeeter-integration&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/Zo-Bro-23/batch-file-bot"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=batch-file-bot&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/Zo-Bro-23/zoauth-demoApp"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zoauth-demoApp&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/Zo-Bro-23/population-simulation-web"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=population-simulation-web&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/Zo-Bro-23/automatic-git-commits"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=automatic-git-commits&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/Zo-Bro-23/zms"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zms&theme=prussian&hide_border=true"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Zo-Bro-23?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-## 📕 Top projects I've contributed to
-
-<!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=prussian&hide_border=true&show_owner=true"></a>
-  <a href="https://github.com/shenuja/himandher"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=shenuja&repo=himandher&theme=prussian&hide_border=true&show_owner=true"></a>
-  <a href="https://github.com/Zyplos/discord-readme-badge"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zyplos&repo=discord-readme-badge&theme=prussian&hide_border=true&show_owner=true"></a>
-  <a href="https://github.com/th-ch/youtube-music"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=th-ch&repo=youtube-music&theme=prussian&hide_border=true&show_owner=true"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Zo-Bro-23?tab=repositories&type=fork"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
-</p>
 
 ## 🛠️ My favorite tools
 
