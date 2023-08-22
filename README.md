@@ -21,35 +21,13 @@
 </p>
 <br/>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://github.com/Zo-Bro-23?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Zo-Bro-23?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Zo-Bro-23?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Zo-Bro-23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/Zo-Bro-23/view-count-badge">
-    <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/Zo-Bro-23/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
-  <a href="https://npmjs.com/~zo-bro-23"><img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/5506-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
-</p>
-
-
-<p align="center">
-  <a href="https://www.last.fm/user/ZoBro23"><img width="" alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=dracula">
-  </a>
-</p>
-
 ## 📊 Github stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="#"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17520605&theme=tokyonight" alt="Nguyễn Hữu Minh Khai" /></a>
 </p>
-
+<br/>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=17520605&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Nguyễn Hữu Minh Khai" /></a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
