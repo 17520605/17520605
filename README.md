@@ -27,11 +27,12 @@
 <p align="center">
   <a href="#"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17520605&theme=tokyonight" alt="Nguyễn Hữu Minh Khai" /></a>
 </p>
-<br/>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=17520605&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Nguyễn Hữu Minh Khai" /></a>
+  <br/>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zo-Bro-23's streak" src="https://streak-stats.demolab.com/?user=17520605&theme=onedark&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nguyễn Hữu Minh Khai" src="https://streak-stats.demolab.com/?user=17520605&theme=onedark&hide_border=true"/>
   </a>
 </p>
 <br/>
