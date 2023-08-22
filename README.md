@@ -42,21 +42,21 @@
 <a href="https://wakatime.com/@ZoBro23"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=17520605&layout=compact&hide_border=true&theme=tokyonight" /></a>
 </p>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=17520605&theme=apprentice">
+    <img src="https://github-profile-trophy.vercel.app/?username=Zo-Bro-23&theme=apprentice">
   </a>
 </p>
 
 <a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=17520605&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
 
 <a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=17520605&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
+
 
 
 ## 🛠️ My favorite tools
