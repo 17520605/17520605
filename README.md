@@ -25,13 +25,6 @@
 <a href="#"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=17520605&layout=compact&hide_border=true&theme=tokyonight" /></a>
 </p> -->
 
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=17520605&theme=apprentice">
-  </a>
-</p>
-
 <a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
   <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
