@@ -1,6 +1,10 @@
 <h3 align="center">
   Welcome to my profile!
 </h3>
+
+![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
+[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
+
 <br/>
 
 ## 📊 Github stats
