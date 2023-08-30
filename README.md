@@ -2,8 +2,7 @@
   Welcome to my profile!
 </h3>
 
-![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
-[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
+![alt text](http://url/to/img.png](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47vfoay57jitb4a4mitczuexx6z6gyvsfspznfc0uc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <br/>
 
