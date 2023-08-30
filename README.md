@@ -2,8 +2,7 @@
   Welcome to my profile!
 </h3>
 
-![alt text](http://url/to/img.png](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47vfoay57jitb4a4mitczuexx6z6gyvsfspznfc0uc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47vfoay57jitb4a4mitczuexx6z6gyvsfspznfc0uc&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" style="width: 100%; height: 100%;">
 <br/>
 
 ## 📊 Github stats
