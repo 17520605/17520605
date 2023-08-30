@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to my profile!
+  <p>Welcome to my profile!</p><br/>
    <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47vfoay57jitb4a4mitczuexx6z6gyvsfspznfc0uc&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" >
 </h3>
 <br/>
