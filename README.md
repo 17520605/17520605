@@ -1,9 +1,3 @@
-<h3 align="center">
-  <p>Welcome to my profile!</p><br/>
-  <div>   <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47vfoay57jitb4a4mitczuexx6z6gyvsfspznfc0uc&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" ></div>
-</h3>
-<br/>
-
 ## 📊 Github stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -19,21 +13,6 @@
   </a>
 </p>
 <br/>
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- <p align="center">
-<a href="#"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=17520605&layout=compact&hide_border=true&theme=tokyonight" /></a>
-<a href="#"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=17520605&layout=compact&hide_border=true&theme=tokyonight" /></a>
-</p> -->
-
-<a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
-</a>
-
-<a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</a>
-
 
 
 ## 🛠️ My favorite tools
