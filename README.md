@@ -9,7 +9,7 @@
 ## 🏅 Contribution activity
 
 <a href="https://github.com/17520605" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=17520605&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img alt="GitHub Snake Light" src="https://github.com/17520605/17520605/blob/output/github-contribution-grid-snake.svg" />
 </a>
 
 <a href="https://github.com/17520605" align="center">
