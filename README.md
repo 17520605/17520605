@@ -8,6 +8,8 @@
 
 ## 🏅 Contribution activity
 
+![Snake animation](https://github.com/17520605/17520605/blob/output/github-contribution-grid-snake.svg)
+
 <a href="https://github.com/17520605#gh-light-mode-only" align="center">
   <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
