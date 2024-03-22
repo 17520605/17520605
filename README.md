@@ -6,19 +6,6 @@
 </p>
 <br/>
 
-## 🏅 Contribution activity
-
-![Snake animation](https://github.com/17520605/17520605/blob/output/github-contribution-grid-snake.svg)
-
-<a href="https://github.com/17520605#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=17520605&repo=17520605&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
-</a>
-
-<a href="https://github.com/17520605#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=17520605&repo=17520605&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</a>
-
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
